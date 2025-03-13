@@ -9,6 +9,6 @@ const repeatString = function(string, num) {
     }
     return myString;
 };
-console.log(repeatString('', 10));
+console.log(repeatString('love', 10));
 // Do not edit below this line
 module.exports = repeatString;
